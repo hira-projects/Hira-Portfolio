@@ -70,6 +70,14 @@ function Footer({ setCurrentPage }) {
           >
             Instagram
           </a>
+       
+           <a
+            href="https://www.facebook.com/me/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Facebook
+          </a>
 
           <a
             href="https://wa.me/923228198628"
