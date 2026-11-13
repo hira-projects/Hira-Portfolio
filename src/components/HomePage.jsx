@@ -90,8 +90,28 @@ function HomePage({ currentPage = 0, setCurrentPage = () => {} }) {
               >
                 About Me
               </button>
+              
+                 {/* FACEBOOK PROFILE */}
+<div className="facebook-profile">
+  <h3>Connect With Me</h3>
 
-            </div>
+  <p>
+    Follow Hoor Web Developer on Facebook for professional
+    web development services, React.js projects, responsive
+    website design, programming education, and business
+    profile creation.
+  </p>
+
+  <a
+    href="https://www.facebook.com/profile.php?id=61596682373833"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Visit My Facebook Profile
+  </a>
+</div>
+            </div>   
+            
 
             {/* HOME IMAGES */}
             <div className="home-image">

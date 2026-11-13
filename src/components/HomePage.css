@@ -329,6 +329,44 @@
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
 }
 
+.facebook-profile {
+  margin-top: 25px;
+  padding: 10px;
+  background: #f5f8fc;
+  border-radius: 10px;
+  border-left: 4px solid  #529692;;
+}
+
+.facebook-profile h3 {
+  color:  #529692;;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.facebook-profile p {
+  color: #555;
+  font-size: 12px;
+  line-height: 1.7;
+  margin-bottom: 10px;
+}
+
+.facebook-profile a {
+  display: inline-block;
+  background:  #c9e6e4;
+  color: black;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 400;
+  transition: 0.3s ease;
+}
+
+.facebook-profile a:hover {
+  background:  #529692;;
+}
+
+
 /* TABLET */
 
 @media (max-width: 900px) {
